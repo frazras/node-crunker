@@ -1,6 +1,6 @@
 {
   "name": "node-crunker",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple way to merge or concatenate audio files with the Node Web Audio API.",
   "main": "./index.js",
   "directories": {
@@ -34,6 +34,7 @@
     "fs": "^0.0.1-security",
     "node-fetch": "^2.3.0",
     "save-file": "^2.1.1",
+    "util": "^0.11.1",
     "web-audio-api": "^0.2.2"
   }
 }
